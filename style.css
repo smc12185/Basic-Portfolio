@@ -1,0 +1,23 @@
+h1 {
+	font-family: Georgia;
+}
+
+body {
+	width: 960px;
+	margin: auto;
+	background-color: white;
+
+
+img {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+p {
+	color: #777777;
+	font-family: Arial;
+}
+#portfolio {
+	border-left: 2px solid black;
+	border-right: 2px solid black;	
+}
